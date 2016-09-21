@@ -6,3 +6,4 @@ frequentRenterPoints --->getFrequentRenterPoints
 
 class Rental
 getFrequentRenterPoints()-->Moive
+getCharge()---> Moive.java
