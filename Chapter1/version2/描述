@@ -1,1 +1,2 @@
  重构:
+class Customer  switch语句--->Rental类each.getCharge()
