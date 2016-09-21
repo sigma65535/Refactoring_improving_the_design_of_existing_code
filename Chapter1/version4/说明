@@ -1,0 +1,2 @@
+抽取出Price类，
+class Moive  用Price对象替代 _priceCode
