@@ -3,3 +3,6 @@ class Customer
 
 totalAmount--->getTotalCharge()
 frequentRenterPoints --->getFrequentRenterPoints
+
+class Rental
+getFrequentRenterPoints()-->Moive
